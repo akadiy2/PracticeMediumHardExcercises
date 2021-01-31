@@ -7,7 +7,7 @@ public class BreakAPalindrome {
     }
 
     /**
-     * Medium Level Exercise:
+     * Medium Level Exercise: https://leetcode.com/problems/break-a-palindrome/
      * Given a palindromic string palindrome,
      * replace exactly one character by any lowercase English letter
      * so that the string becomes the lexicographically smallest possible string that isn't a palindrome.
